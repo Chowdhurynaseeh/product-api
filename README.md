@@ -27,3 +27,10 @@ A full-stack CRUD application for managing products, built with **Node.js**, **M
 - No login required — just open the app and test it directly.
 - API endpoints also available (e.g., `GET /items`, `POST /items`, etc.)
 
+## 💻 How to run on Local Machine
+- git clone https://github.com/Chowdhurynaseeh/product-api
+- cd product-api
+- npm install
+- node app.js
+- Visit: http://localhost:3000
+
