@@ -34,3 +34,22 @@ A full-stack CRUD application for managing products, built with **Node.js**, **M
 - node app.js
 - Visit: http://localhost:3000
 
+## Demonstations 
+
+# Get
+![image](https://github.com/user-attachments/assets/0a05963b-2088-4e0d-bc14-b0011b0c1005)
+
+# Get By id 
+![image](https://github.com/user-attachments/assets/2147ebd7-5cef-4ad9-aac4-f2cfe3371e3c)
+
+# Post
+![image](https://github.com/user-attachments/assets/56c26950-ba92-4684-bc43-6f7cc643aa1f)
+
+# Put
+![image](https://github.com/user-attachments/assets/23b96987-3836-4020-abb4-93b4bc5d8da5)
+
+# Delete
+![image](https://github.com/user-attachments/assets/669830a2-d292-45b5-83ad-756b75501a0f)
+
+
+
